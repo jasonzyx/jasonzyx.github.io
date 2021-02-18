@@ -1,123 +1,33 @@
 ---
 layout: default
 ---
+### Summary
+My passion is to build world-class product with deep understanding on customer needs, state-of-art AI algorithms and system design. Technical-wise, my general interest falls into two categories below.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+* Large-scale machine learning & optimizations, including **recommender system**, **supply-demand matching**, **bidding and pacing**.
 
-[Link to another page](./another-page.html).
+* System/engineering-wise, I am interested in a variety of topics in distributed systems (that are served and commonly used in Big Data platform), including large-scale batch/mini batch/stream computing, online serving engine, distributed caching and storage.
 
-There should be whitespace between paragraphs.
+[comment]: <> (Text can be **bold**, _italic_, or ~~strikethrough~~.)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[comment]: <> ([Link to another page]&#40;./another-page.html&#41;.)
 
-# Header 1
+[comment]: <> (There should be whitespace between paragraphs.)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[comment]: <> (There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.)
 
-## Header 2
+[comment]: <> (# Header 1)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[comment]: <> (This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.)
 
-### Header 3
+[comment]: <> (## Header 2)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### My favorite note (from Daniel Ally, Voltaire, and Jun Liu)
+> Judge a man by his questions rather than his answers. -Voltaire
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> Most people assume that they know answers. Their assumptions actually hold them back from knowing the truth. Truly, you want to ask questions to gain clarity about the direction you are heading. The fact is that many people don't ask any questions as they habitually guess their way by creating answers for themselves.
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+> To become a great researcher, don't answer your questions, but question your answers. When you need to know the facts, you must inquire, not just make assumptions. Many people don't want to ask questions because it exposes them to confront the reality of their circumstance, which may scare them. Moreover, asking questions forces them into the laborious task of thinking, which is why they fail to ask questions.
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
